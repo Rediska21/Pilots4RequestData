@@ -1,0 +1,2463 @@
+{
+  "data": {
+    "prices_round_trip": [
+      {
+        "value": 9506,
+        "main_airline": "UT",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-13T00:10:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 9589.05,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-10T21:45:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 9691.48,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-04T15:25:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 9721,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-07T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 9738,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-13T19:25:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10018.5,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-08T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10018.5,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-22T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10027.87,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10027.87,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-07-02T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10027.87,
+        "main_airline": "S7",
+        "departure_at": "2024-06-18T15:30:00+03:00",
+        "return_at": "2024-06-27T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10036.16,
+        "main_airline": "S7",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-06-22T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10045.57,
+        "main_airline": "S7",
+        "departure_at": "2024-06-04T15:30:00+03:00",
+        "return_at": "2024-06-08T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10045.57,
+        "main_airline": "S7",
+        "departure_at": "2024-06-25T15:30:00+03:00",
+        "return_at": "2024-06-26T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10046.61,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10046.61,
+        "main_airline": "S7",
+        "departure_at": "2024-06-25T15:30:00+03:00",
+        "return_at": "2024-07-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10050.5,
+        "main_airline": "S7",
+        "departure_at": "2024-06-03T15:30:00+03:00",
+        "return_at": "2024-06-08T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10050.5,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-26T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10053.21,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-06T19:25:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-27T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-13T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-25T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-27T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-07-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-06-25T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-20T15:30:00+03:00",
+        "return_at": "2024-07-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-06-27T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.19,
+        "main_airline": "S7",
+        "departure_at": "2024-06-25T15:30:00+03:00",
+        "return_at": "2024-07-09T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.21,
+        "main_airline": "S7",
+        "departure_at": "2024-06-03T15:30:00+03:00",
+        "return_at": "2024-06-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.21,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-07-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.21,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-07-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10055.98,
+        "main_airline": "S7",
+        "departure_at": "2024-06-27T15:30:00+03:00",
+        "return_at": "2024-07-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10069.3,
+        "main_airline": "S7",
+        "departure_at": "2024-06-03T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10069.3,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-22T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-03T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-03T15:30:00+03:00",
+        "return_at": "2024-06-22T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-26T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-18T15:30:00+03:00",
+        "return_at": "2024-06-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-06-26T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-13T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-06-26T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-25T15:30:00+03:00",
+        "return_at": "2024-07-02T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10074,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-07-10T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10083.4,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10097.06,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-28T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10101.46,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-13T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10101.46,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-07-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10101.46,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-18T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10101.46,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10101.46,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10101.46,
+        "main_airline": "S7",
+        "departure_at": "2024-06-25T15:30:00+03:00",
+        "return_at": "2024-07-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10101.46,
+        "main_airline": "S7",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-07-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10102.12,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-14T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10121,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-21T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10125.4,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-17T21:45:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10150.03,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-07-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10272,
+        "main_airline": "Y7",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-16T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10733.85,
+        "main_airline": "S7",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-06-28T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10733.85,
+        "main_airline": "S7",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-07-12T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10733.85,
+        "main_airline": "S7",
+        "departure_at": "2024-06-27T15:30:00+03:00",
+        "return_at": "2024-07-01T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10754.42,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10754.42,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-06-29T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10754.42,
+        "main_airline": "S7",
+        "departure_at": "2024-06-24T15:30:00+03:00",
+        "return_at": "2024-06-26T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10764.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-07-01T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10764.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-18T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10764.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-20T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10764.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-06-28T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10764.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-29T15:30:00+03:00",
+        "return_at": "2024-07-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10773.38,
+        "main_airline": "S7",
+        "departure_at": "2024-06-11T15:30:00+03:00",
+        "return_at": "2024-06-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10774.54,
+        "main_airline": "S7",
+        "departure_at": "2024-06-04T15:30:00+03:00",
+        "return_at": "2024-06-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10774.54,
+        "main_airline": "S7",
+        "departure_at": "2024-06-25T15:30:00+03:00",
+        "return_at": "2024-07-01T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10784.6,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10784.6,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-14T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10784.6,
+        "main_airline": "S7",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10784.91,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-11T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10784.91,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-11T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10784.91,
+        "main_airline": "S7",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10788.78,
+        "main_airline": "S7",
+        "departure_at": "2024-06-18T15:30:00+03:00",
+        "return_at": "2024-06-22T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10788.78,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-07-01T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.65,
+        "main_airline": "S7",
+        "departure_at": "2024-06-13T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.69,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-16T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.81,
+        "main_airline": "S7",
+        "departure_at": "2024-06-04T15:30:00+03:00",
+        "return_at": "2024-06-18T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.81,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-11T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.81,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.81,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-07-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.81,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.81,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.81,
+        "main_airline": "S7",
+        "departure_at": "2024-06-13T15:30:00+03:00",
+        "return_at": "2024-06-14T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.81,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-06-25T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.81,
+        "main_airline": "S7",
+        "departure_at": "2024-06-24T15:30:00+03:00",
+        "return_at": "2024-06-27T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-10T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-12T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-11T15:30:00+03:00",
+        "return_at": "2024-07-02T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10793.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-29T15:30:00+03:00",
+        "return_at": "2024-07-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10794.66,
+        "main_airline": "S7",
+        "departure_at": "2024-06-25T15:30:00+03:00",
+        "return_at": "2024-06-28T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10794.66,
+        "main_airline": "S7",
+        "departure_at": "2024-06-27T15:30:00+03:00",
+        "return_at": "2024-06-29T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10803.83,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-26T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10803.83,
+        "main_airline": "S7",
+        "departure_at": "2024-06-27T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10803.91,
+        "main_airline": "S7",
+        "departure_at": "2024-06-13T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10803.91,
+        "main_airline": "S7",
+        "departure_at": "2024-06-13T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10803.91,
+        "main_airline": "S7",
+        "departure_at": "2024-06-18T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10803.91,
+        "main_airline": "S7",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-07-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10808.72,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10808.95,
+        "main_airline": "S7",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10808.95,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-13T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-13T15:30:00+03:00",
+        "return_at": "2024-07-13T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-07-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-30T15:30:00+03:00",
+        "return_at": "2024-07-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-08T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-20T15:30:00+03:00",
+        "return_at": "2024-06-22T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-20T15:30:00+03:00",
+        "return_at": "2024-06-25T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-20T15:30:00+03:00",
+        "return_at": "2024-06-27T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10814,
+        "main_airline": "S7",
+        "departure_at": "2024-06-18T15:30:00+03:00",
+        "return_at": "2024-06-28T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10824.09,
+        "main_airline": "S7",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10824.09,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-07-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10824.09,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10824.09,
+        "main_airline": "S7",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-06-29T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10824.09,
+        "main_airline": "S7",
+        "departure_at": "2024-06-30T15:30:00+03:00",
+        "return_at": "2024-07-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10843.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-11T15:30:00+03:00",
+        "return_at": "2024-06-13T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10843.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10843.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-06-28T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10843.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-24T15:30:00+03:00",
+        "return_at": "2024-06-25T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10843.48,
+        "main_airline": "S7",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-07-01T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10875.31,
+        "main_airline": "S7",
+        "departure_at": "2024-06-29T15:30:00+03:00",
+        "return_at": "2024-07-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10884.65,
+        "main_airline": "5N",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-07T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10894.91,
+        "main_airline": "5N",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-07T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10906,
+        "main_airline": "5N",
+        "departure_at": "2024-06-03T15:30:00+03:00",
+        "return_at": "2024-06-03T21:45:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 10925.86,
+        "main_airline": "5N",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-10T21:45:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11250.67,
+        "main_airline": "5N",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-28T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11291.89,
+        "main_airline": "5N",
+        "departure_at": "2024-06-20T15:30:00+03:00",
+        "return_at": "2024-06-24T21:45:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11313,
+        "main_airline": "5N",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-17T21:45:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11313,
+        "main_airline": "5N",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-12T12:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11313,
+        "main_airline": "5N",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-12T12:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11323.55,
+        "main_airline": "5N",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-06-23T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11329.8,
+        "main_airline": "DP",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-06T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11329.82,
+        "main_airline": "DP",
+        "departure_at": "2024-06-20T15:30:00+03:00",
+        "return_at": "2024-06-29T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11340.32,
+        "main_airline": "DP",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-06-26T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11351,
+        "main_airline": "DP",
+        "departure_at": "2024-06-25T15:30:00+03:00",
+        "return_at": "2024-06-25T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11351,
+        "main_airline": "DP",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-05T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11501.09,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11501.09,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-11T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11501.09,
+        "main_airline": "S7",
+        "departure_at": "2024-06-11T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11503,
+        "main_airline": "UT",
+        "departure_at": "2024-06-19T15:30:00+03:00",
+        "return_at": "2024-06-20T00:10:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11510.6,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11511.84,
+        "main_airline": "S7",
+        "departure_at": "2024-06-30T15:30:00+03:00",
+        "return_at": "2024-07-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11521.39,
+        "main_airline": "S7",
+        "departure_at": "2024-06-29T15:30:00+03:00",
+        "return_at": "2024-07-01T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11521.45,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11521.45,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-07-14T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11522.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-24T15:30:00+03:00",
+        "return_at": "2024-06-29T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11532.42,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11532.42,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11532.42,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11532.42,
+        "main_airline": "S7",
+        "departure_at": "2024-06-30T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11532.44,
+        "main_airline": "S7",
+        "departure_at": "2024-06-30T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11532.71,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-11T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11532.71,
+        "main_airline": "S7",
+        "departure_at": "2024-06-24T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11543.13,
+        "main_airline": "S7",
+        "departure_at": "2024-06-29T15:30:00+03:00",
+        "return_at": "2024-07-12T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11548.61,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-10T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11554,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-14T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11554,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11554,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-07-13T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11554,
+        "main_airline": "S7",
+        "departure_at": "2024-06-30T15:30:00+03:00",
+        "return_at": "2024-07-01T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11564.78,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-14T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11603.23,
+        "main_airline": "S7",
+        "departure_at": "2024-06-30T15:30:00+03:00",
+        "return_at": "2024-07-12T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11619.63,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11619.63,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11619.63,
+        "main_airline": "S7",
+        "departure_at": "2024-06-21T15:30:00+03:00",
+        "return_at": "2024-06-25T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11630.5,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11640.12,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-22T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11641.37,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11641.37,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-07-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11651.03,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11651.03,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11651.09,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-18T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11652.24,
+        "main_airline": "S7",
+        "departure_at": "2024-06-21T15:30:00+03:00",
+        "return_at": "2024-07-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11656.75,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-08T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11656.75,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11656.75,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.02,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-13T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.02,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-09T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.06,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-07-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.06,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.18,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.18,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-25T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.18,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-18T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.18,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.2,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.2,
+        "main_airline": "S7",
+        "departure_at": "2024-06-12T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11662.2,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11673.1,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-27T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11678.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-25T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11678.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-26T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11678.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-07-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-18T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-16T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-18T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-21T15:30:00+03:00",
+        "return_at": "2024-06-26T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-23T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-30T15:30:00+03:00",
+        "return_at": "2024-07-11T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-08T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-27T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-25T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-27T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-20T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-02T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11684,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11694.9,
+        "main_airline": "S7",
+        "departure_at": "2024-06-04T15:30:00+03:00",
+        "return_at": "2024-06-06T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11694.9,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-13T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11694.9,
+        "main_airline": "S7",
+        "departure_at": "2024-06-10T15:30:00+03:00",
+        "return_at": "2024-06-16T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11694.9,
+        "main_airline": "S7",
+        "departure_at": "2024-06-26T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11694.9,
+        "main_airline": "S7",
+        "departure_at": "2024-06-27T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11694.9,
+        "main_airline": "S7",
+        "departure_at": "2024-06-30T15:30:00+03:00",
+        "return_at": "2024-07-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11733.78,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-10T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11761.21,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-07-02T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11886,
+        "main_airline": "5N",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-10T21:45:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 11950.14,
+        "main_airline": "5N",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-16T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12042.47,
+        "main_airline": "UT",
+        "departure_at": "2024-06-04T15:30:00+03:00",
+        "return_at": "2024-06-05T00:10:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12075.25,
+        "main_airline": "UT",
+        "departure_at": "2024-06-24T15:30:00+03:00",
+        "return_at": "2024-07-06T00:10:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12259.6,
+        "main_airline": "DP",
+        "departure_at": "2024-06-11T15:30:00+03:00",
+        "return_at": "2024-06-11T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12282.87,
+        "main_airline": "DP",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-08T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12287,
+        "main_airline": "5N",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-12T12:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12295,
+        "main_airline": "5N",
+        "departure_at": "2024-06-20T15:30:00+03:00",
+        "return_at": "2024-06-23T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12306.47,
+        "main_airline": "5N",
+        "departure_at": "2024-06-24T15:30:00+03:00",
+        "return_at": "2024-06-28T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12330.24,
+        "main_airline": "UT",
+        "departure_at": "2024-06-03T20:35:00+03:00",
+        "return_at": "2024-06-10T00:10:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12355.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12355.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12355.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-12T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12355.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-12T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12355.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-28T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12355.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-24T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12355.55,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12367.11,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12367.11,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12388.94,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-14T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12390.22,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12390.58,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-10T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12395.02,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12395.02,
+        "main_airline": "S7",
+        "departure_at": "2024-06-29T15:30:00+03:00",
+        "return_at": "2024-07-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-28T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-21T15:30:00+03:00",
+        "return_at": "2024-06-28T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-01T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.8,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-08T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-11T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-21T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12400.82,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12401.1,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-12T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12401.78,
+        "main_airline": "S7",
+        "departure_at": "2024-06-21T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12412.41,
+        "main_airline": "S7",
+        "departure_at": "2024-06-12T15:30:00+03:00",
+        "return_at": "2024-06-14T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-21T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-10T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-14T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-14T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-16T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-21T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-29T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-21T15:30:00+03:00",
+        "return_at": "2024-07-08T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-07-13T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424,
+        "main_airline": "S7",
+        "departure_at": "2024-06-29T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12424.44,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-29T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12435.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12435.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12435.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-17T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12435.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-06-29T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12435.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12435.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-06-29T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12435.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-29T15:30:00+03:00",
+        "return_at": "2024-07-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12435.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-29T15:30:00+03:00",
+        "return_at": "2024-07-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12457.87,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-17T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12654.5,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-03T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12659.41,
+        "main_airline": "S7",
+        "departure_at": "2024-06-06T15:30:00+03:00",
+        "return_at": "2024-06-09T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12665.3,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-05T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12665.33,
+        "main_airline": "S7",
+        "departure_at": "2024-06-11T15:30:00+03:00",
+        "return_at": "2024-06-15T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12683.08,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-08T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12689,
+        "main_airline": "S7",
+        "departure_at": "2024-06-11T15:30:00+03:00",
+        "return_at": "2024-06-12T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12700.84,
+        "main_airline": "S7",
+        "departure_at": "2024-06-12T15:30:00+03:00",
+        "return_at": "2024-06-19T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12700.84,
+        "main_airline": "S7",
+        "departure_at": "2024-06-12T15:30:00+03:00",
+        "return_at": "2024-06-20T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12723.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-04T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12723.59,
+        "main_airline": "S7",
+        "departure_at": "2024-06-05T15:30:00+03:00",
+        "return_at": "2024-06-09T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12920.52,
+        "main_airline": "5N",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-07T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 12921.04,
+        "main_airline": "5N",
+        "departure_at": "2024-06-13T15:30:00+03:00",
+        "return_at": "2024-06-16T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13005.24,
+        "main_airline": "5N",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-07T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13028.14,
+        "main_airline": "5N",
+        "departure_at": "2024-06-04T15:30:00+03:00",
+        "return_at": "2024-06-07T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13028.14,
+        "main_airline": "5N",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-10T21:45:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13035.15,
+        "main_airline": "5N",
+        "departure_at": "2024-06-04T15:30:00+03:00",
+        "return_at": "2024-06-10T21:45:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13040.62,
+        "main_airline": "UT",
+        "departure_at": "2024-06-11T15:30:00+03:00",
+        "return_at": "2024-06-15T00:10:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13194,
+        "main_airline": "UT",
+        "departure_at": "2024-06-12T15:30:00+03:00",
+        "return_at": "2024-06-13T00:10:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13233.12,
+        "main_airline": "S7",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13262.99,
+        "main_airline": "S7",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13269.03,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-09T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13269.17,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-16T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13269.2,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13269.5,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-16T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13294,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-12T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13294,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-12T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13294,
+        "main_airline": "S7",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-16T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13294,
+        "main_airline": "S7",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13325.49,
+        "main_airline": "5N",
+        "departure_at": "2024-06-14T15:30:00+03:00",
+        "return_at": "2024-06-14T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13329.24,
+        "main_airline": "DP",
+        "departure_at": "2024-06-22T15:30:00+03:00",
+        "return_at": "2024-06-22T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13355.01,
+        "main_airline": "S7",
+        "departure_at": "2024-06-04T15:30:00+03:00",
+        "return_at": "2024-06-09T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13403.92,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-10T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13403.92,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-24T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13403.95,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-29T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13403.95,
+        "main_airline": "S7",
+        "departure_at": "2024-06-12T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13416.47,
+        "main_airline": "S7",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-09T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13425,
+        "main_airline": "5N",
+        "departure_at": "2024-06-21T15:30:00+03:00",
+        "return_at": "2024-06-21T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13429,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-11T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13429,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-12T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13498.6,
+        "main_airline": "UT",
+        "departure_at": "2024-06-18T15:30:00+03:00",
+        "return_at": "2024-06-19T00:10:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13508.8,
+        "main_airline": "DP",
+        "departure_at": "2024-06-01T08:45:00+03:00",
+        "return_at": "2024-06-01T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13526.32,
+        "main_airline": "5N",
+        "departure_at": "2024-06-28T15:30:00+03:00",
+        "return_at": "2024-06-28T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 13974.71,
+        "main_airline": "5N",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-02T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14013.78,
+        "main_airline": "5N",
+        "departure_at": "2024-06-16T15:30:00+03:00",
+        "return_at": "2024-06-16T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14046,
+        "main_airline": "5N",
+        "departure_at": "2024-06-08T15:30:00+03:00",
+        "return_at": "2024-06-16T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14048.09,
+        "main_airline": "5N",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-16T21:40:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14193.02,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-30T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14220.22,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-16T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14299,
+        "main_airline": "S7",
+        "departure_at": "2024-06-02T15:30:00+03:00",
+        "return_at": "2024-06-09T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14299,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-23T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14299,
+        "main_airline": "S7",
+        "departure_at": "2024-06-07T15:30:00+03:00",
+        "return_at": "2024-06-09T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14299,
+        "main_airline": "S7",
+        "departure_at": "2024-06-11T15:30:00+03:00",
+        "return_at": "2024-06-16T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14312.34,
+        "main_airline": "S7",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-07T19:50:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14462.32,
+        "main_airline": "DP",
+        "departure_at": "2024-06-15T15:30:00+03:00",
+        "return_at": "2024-06-15T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14480.92,
+        "main_airline": "UT",
+        "departure_at": "2024-06-09T15:30:00+03:00",
+        "return_at": "2024-06-10T00:10:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 14752,
+        "main_airline": "DP",
+        "departure_at": "2024-06-01T15:30:00+03:00",
+        "return_at": "2024-06-02T23:35:00+03:00",
+        "trip_class": "Y"
+      },
+      {
+        "value": 15318.28,
+        "main_airline": "S7",
+        "departure_at": "2024-06-12T15:30:00+03:00",
+        "return_at": "2024-06-16T19:50:00+03:00",
+        "trip_class": "Y"
+      }
+    ]
+  }
+}
